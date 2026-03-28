@@ -31,8 +31,8 @@ I am a passionate Full-Stack Developer with a strong foundation in modern web te
 
 ---
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[code-with-romanahmed]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[code-with-romanahmed]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-with-romanahmed&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-romanahmed&layout=compact&theme=radical)
 
 ---
 ---
