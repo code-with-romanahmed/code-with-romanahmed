@@ -36,7 +36,8 @@ I am a passionate Full-Stack Developer with a strong foundation in modern web te
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-romanahmed&layout=compact&theme=radical)
 
 ---
+---
 
 ### 🌐 Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />]https://www.linkedin.com/in/roman-ahmed-1695522b1/
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />]https://www.facebook.com/roman.ahmed.7186/
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roman-ahmed-1695522b1/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/roman.ahmed.7186/)
